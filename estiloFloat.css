@@ -1,0 +1,26 @@
+.container{ 
+    border: 5px solid black;
+    overflow:auto;
+    margin: 5px;
+    text-align: center;
+
+}
+
+.imagem01{
+    float: right;
+    border: 5px;
+    margin: 8px;
+}
+
+.imagem02{
+    float: left;
+    border: 5px;
+    margin: 8px;
+
+}
+
+.imagem03{
+    float: inline-end;
+    border: 5px;
+    margin: 8px;
+}
